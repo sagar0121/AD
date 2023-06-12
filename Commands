@@ -19,7 +19,8 @@ Recon tool for complete target
 https://github.com/six2dez/reconftw
 ./reconftw.sh -d target.com -r
 
-
+rev port: 
+443
 
 https://book.hacktricks.xyz/windows/basic-powershell-for-pentesters/powerview
 
